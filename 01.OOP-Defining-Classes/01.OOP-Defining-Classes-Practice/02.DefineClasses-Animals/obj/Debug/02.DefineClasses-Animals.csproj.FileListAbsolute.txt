@@ -1,0 +1,6 @@
+C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\02.DefineClasses-Animals\bin\Debug\02.DefineClasses-Animals.exe.config
+C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\02.DefineClasses-Animals\bin\Debug\02.DefineClasses-Animals.exe
+C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\02.DefineClasses-Animals\bin\Debug\02.DefineClasses-Animals.pdb
+C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\02.DefineClasses-Animals\obj\Debug\02.DefineClasses-Animals.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\02.DefineClasses-Animals\obj\Debug\02.DefineClasses-Animals.exe
+C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\02.DefineClasses-Animals\obj\Debug\02.DefineClasses-Animals.pdb
