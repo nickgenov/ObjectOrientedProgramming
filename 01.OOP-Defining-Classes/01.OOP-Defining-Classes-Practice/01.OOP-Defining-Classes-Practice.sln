@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.DefineClasses", "01.Defi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.DefineClasses-Animals", "02.DefineClasses-Animals\02.DefineClasses-Animals.csproj", "{2CCA7E00-B2F4-4807-976F-1750FE2A9C90}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ConstAndReadonly", "03.ConstAndReadonly\03.ConstAndReadonly.csproj", "{182EC2F9-B6FA-47DA-A68E-4E19FFA78C6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2CCA7E00-B2F4-4807-976F-1750FE2A9C90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CCA7E00-B2F4-4807-976F-1750FE2A9C90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CCA7E00-B2F4-4807-976F-1750FE2A9C90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{182EC2F9-B6FA-47DA-A68E-4E19FFA78C6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{182EC2F9-B6FA-47DA-A68E-4E19FFA78C6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{182EC2F9-B6FA-47DA-A68E-4E19FFA78C6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{182EC2F9-B6FA-47DA-A68E-4E19FFA78C6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

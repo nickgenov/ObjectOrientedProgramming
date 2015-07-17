@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2CCA7E00-B2F4-4807-976F-1750FE2A9C90}</ProjectGuid>
+    <ProjectGuid>{182EC2F9-B6FA-47DA-A68E-4E19FFA78C6F}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_02.DefineClasses_Animals</RootNamespace>
-    <AssemblyName>02.DefineClasses-Animals</AssemblyName>
+    <RootNamespace>_03.ConstAndReadonly</RootNamespace>
+    <AssemblyName>03.ConstAndReadonly</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,11 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Bird.cs" />
-    <Compile Include="Cat.cs" />
-    <Compile Include="Dog.cs" />
-    <Compile Include="DefineClassesAnimals.cs" />
-    <Compile Include="Lion.cs" />
+    <Compile Include="ConstAndReadonly.cs" />
+    <Compile Include="Elephant.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

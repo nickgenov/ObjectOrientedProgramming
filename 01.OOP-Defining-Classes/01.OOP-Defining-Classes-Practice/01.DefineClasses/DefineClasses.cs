@@ -29,6 +29,7 @@ namespace _01.DefineClasses
 
             Console.WriteLine(rect3);
             rect3.Print();
+            Console.WriteLine(rect3.Area);
 
             //Square square = new Square(-1); //exception - check in the property
 

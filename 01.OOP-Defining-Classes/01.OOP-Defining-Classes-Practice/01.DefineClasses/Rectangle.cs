@@ -1,7 +1,14 @@
 ﻿class Rectangle
-{ 
-    public int Width {get; set;}
+{
+    public int Width { get; set; }
     public int Height { get; set; }
+    public int Area
+    {
+        get
+        {
+            return this.Width * this.Height;
+        }
+    }
 
     public override string ToString()
     {

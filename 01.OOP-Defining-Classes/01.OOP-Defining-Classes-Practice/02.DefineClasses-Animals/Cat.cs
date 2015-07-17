@@ -1,16 +1,6 @@
 ﻿public class Cat
 {
-    private string name;
-    private string owner;
+    public string Name { get; set; }
+    public string Owner { get; set; }
 
-    public Cat(string Name, string Owner)
-    {
-        this.name = Name;
-        this.owner = Owner;
-    }
-
-    public string Name
-    {
-        get { return this.Name; }
-    }
 }

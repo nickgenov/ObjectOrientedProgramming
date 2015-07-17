@@ -1,0 +1,6 @@
+C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\03.ConstAndReadonly\bin\Debug\03.ConstAndReadonly.exe.config
+C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\03.ConstAndReadonly\bin\Debug\03.ConstAndReadonly.exe
+C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\03.ConstAndReadonly\bin\Debug\03.ConstAndReadonly.pdb
+C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\03.ConstAndReadonly\obj\Debug\03.ConstAndReadonly.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\03.ConstAndReadonly\obj\Debug\03.ConstAndReadonly.exe
+C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\03.ConstAndReadonly\obj\Debug\03.ConstAndReadonly.pdb
