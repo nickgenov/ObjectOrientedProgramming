@@ -1,0 +1,5 @@
+C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\07.MoreConstructors\bin\Debug\07.MoreConstructors.exe.config
+C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\07.MoreConstructors\bin\Debug\07.MoreConstructors.exe
+C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\07.MoreConstructors\bin\Debug\07.MoreConstructors.pdb
+C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\07.MoreConstructors\obj\Debug\07.MoreConstructors.exe
+C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\07.MoreConstructors\obj\Debug\07.MoreConstructors.pdb

@@ -1,0 +1,6 @@
+C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\13.DefiningClassesExcercise\bin\Debug\13.DefiningClassesExcercise.exe.config
+C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\13.DefiningClassesExcercise\bin\Debug\13.DefiningClassesExcercise.exe
+C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\13.DefiningClassesExcercise\bin\Debug\13.DefiningClassesExcercise.pdb
+C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\13.DefiningClassesExcercise\obj\Debug\13.DefiningClassesExcercise.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\13.DefiningClassesExcercise\obj\Debug\13.DefiningClassesExcercise.exe
+C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\13.DefiningClassesExcercise\obj\Debug\13.DefiningClassesExcercise.pdb

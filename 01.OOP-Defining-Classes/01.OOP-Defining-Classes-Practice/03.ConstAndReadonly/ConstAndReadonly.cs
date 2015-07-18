@@ -8,5 +8,9 @@ class ConstAndReadonly
         Console.WriteLine(e.Weight);
         Console.WriteLine(e.Name);
         //e.Weight = 5000; //error - readonly field
-    }
+        
+        //constant:
+        Console.WriteLine(Elephant.Size);
+
+    } 
 }
