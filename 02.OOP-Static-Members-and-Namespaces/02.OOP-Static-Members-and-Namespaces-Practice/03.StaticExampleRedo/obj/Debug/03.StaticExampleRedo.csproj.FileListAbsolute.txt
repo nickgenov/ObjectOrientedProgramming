@@ -1,0 +1,5 @@
+C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\02.OOP-Static-Members-and-Namespaces\02.OOP-Static-Members-and-Namespaces-Practice\03.StaticExampleRedo\bin\Debug\03.StaticExampleRedo.exe.config
+C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\02.OOP-Static-Members-and-Namespaces\02.OOP-Static-Members-and-Namespaces-Practice\03.StaticExampleRedo\bin\Debug\03.StaticExampleRedo.exe
+C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\02.OOP-Static-Members-and-Namespaces\02.OOP-Static-Members-and-Namespaces-Practice\03.StaticExampleRedo\bin\Debug\03.StaticExampleRedo.pdb
+C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\02.OOP-Static-Members-and-Namespaces\02.OOP-Static-Members-and-Namespaces-Practice\03.StaticExampleRedo\obj\Debug\03.StaticExampleRedo.exe
+C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\02.OOP-Static-Members-and-Namespaces\02.OOP-Static-Members-and-Namespaces-Practice\03.StaticExampleRedo\obj\Debug\03.StaticExampleRedo.pdb

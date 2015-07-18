@@ -1,0 +1,6 @@
+C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\02.OOP-Static-Members-and-Namespaces\02.OOP-Static-Members-and-Namespaces-Practice\01.StaticAndNonStatic\bin\Debug\01.StaticAndNonStatic.exe.config
+C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\02.OOP-Static-Members-and-Namespaces\02.OOP-Static-Members-and-Namespaces-Practice\01.StaticAndNonStatic\bin\Debug\01.StaticAndNonStatic.exe
+C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\02.OOP-Static-Members-and-Namespaces\02.OOP-Static-Members-and-Namespaces-Practice\01.StaticAndNonStatic\bin\Debug\01.StaticAndNonStatic.pdb
+C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\02.OOP-Static-Members-and-Namespaces\02.OOP-Static-Members-and-Namespaces-Practice\01.StaticAndNonStatic\obj\Debug\01.StaticAndNonStatic.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\02.OOP-Static-Members-and-Namespaces\02.OOP-Static-Members-and-Namespaces-Practice\01.StaticAndNonStatic\obj\Debug\01.StaticAndNonStatic.exe
+C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\02.OOP-Static-Members-and-Namespaces\02.OOP-Static-Members-and-Namespaces-Practice\01.StaticAndNonStatic\obj\Debug\01.StaticAndNonStatic.pdb

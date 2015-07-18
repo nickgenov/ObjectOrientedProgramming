@@ -1,0 +1,5 @@
+C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\02.OOP-Static-Members-and-Namespaces\02.OOP-Static-Members-and-Namespaces-Practice\02.StaticExample\bin\Debug\02.StaticExample.exe.config
+C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\02.OOP-Static-Members-and-Namespaces\02.OOP-Static-Members-and-Namespaces-Practice\02.StaticExample\bin\Debug\02.StaticExample.exe
+C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\02.OOP-Static-Members-and-Namespaces\02.OOP-Static-Members-and-Namespaces-Practice\02.StaticExample\bin\Debug\02.StaticExample.pdb
+C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\02.OOP-Static-Members-and-Namespaces\02.OOP-Static-Members-and-Namespaces-Practice\02.StaticExample\obj\Debug\02.StaticExample.exe
+C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\02.OOP-Static-Members-and-Namespaces\02.OOP-Static-Members-and-Namespaces-Practice\02.StaticExample\obj\Debug\02.StaticExample.pdb
