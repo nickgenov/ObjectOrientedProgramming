@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Encapsulation", "Encapsulation\01.Encapsulation.csproj", "{D3867DD6-6429-4CBF-94F6-50F75DB02A56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Polymorphism", "Polymorphism\02.Polymorphism.csproj", "{090700BF-4A28-495F-8887-60D1F727B591}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CohesionAndCoupling", "CohesionAndCoupling\03.CohesionAndCoupling.csproj", "{D5568CD5-9935-4176-8A66-D4F6F5DE326E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3867DD6-6429-4CBF-94F6-50F75DB02A56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3867DD6-6429-4CBF-94F6-50F75DB02A56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3867DD6-6429-4CBF-94F6-50F75DB02A56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3867DD6-6429-4CBF-94F6-50F75DB02A56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{090700BF-4A28-495F-8887-60D1F727B591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{090700BF-4A28-495F-8887-60D1F727B591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{090700BF-4A28-495F-8887-60D1F727B591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{090700BF-4A28-495F-8887-60D1F727B591}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5568CD5-9935-4176-8A66-D4F6F5DE326E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5568CD5-9935-4176-8A66-D4F6F5DE326E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5568CD5-9935-4176-8A66-D4F6F5DE326E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5568CD5-9935-4176-8A66-D4F6F5DE326E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
