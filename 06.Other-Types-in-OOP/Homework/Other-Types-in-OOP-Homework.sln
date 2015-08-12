@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.FractionCalculator", "Fr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.GenericList", "GenericList\03.GenericList.csproj", "{73911A0E-EDE6-4C0B-B325-64E03D807B1D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.GenericListVersion", "GenericListVersion\04.GenericListVersion.csproj", "{3B789E5E-86F1-4DD8-9369-A19F3BABAE58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.WordDocumentGenerator", "WordDocumentGenerator\05.WordDocumentGenerator.csproj", "{38C7489B-94FC-4E16-9372-A40E4798E664}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{73911A0E-EDE6-4C0B-B325-64E03D807B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73911A0E-EDE6-4C0B-B325-64E03D807B1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73911A0E-EDE6-4C0B-B325-64E03D807B1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B789E5E-86F1-4DD8-9369-A19F3BABAE58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B789E5E-86F1-4DD8-9369-A19F3BABAE58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B789E5E-86F1-4DD8-9369-A19F3BABAE58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B789E5E-86F1-4DD8-9369-A19F3BABAE58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38C7489B-94FC-4E16-9372-A40E4798E664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38C7489B-94FC-4E16-9372-A40E4798E664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38C7489B-94FC-4E16-9372-A40E4798E664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38C7489B-94FC-4E16-9372-A40E4798E664}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
