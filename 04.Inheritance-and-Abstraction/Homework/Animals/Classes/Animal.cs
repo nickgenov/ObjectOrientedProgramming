@@ -1,4 +1,5 @@
-﻿using Animals.Enums;
+﻿using System;
+using Animals.Enums;
 using Animals.Interfaces;
 
 namespace Animals.Classes
@@ -18,20 +19,48 @@ namespace Animals.Classes
 
         public string Name
         {
-            get { return this.name; }
-            set { this.name = value; }
+            get
+            {
+                return this.name;
+            }
+            set
+            {
+                if (string.IsNullOrWhiteSpace(value))
+                {
+                    throw new ArgumentException("Name cannot be null, empty or whitespace", "Name");
+                }
+
+                this.name = value;
+            }
         }
 
         public int Age
         {
-            get { return this.age; }
-            set { this.age = value; }
+            get
+            {
+                return this.age;
+            }
+            set
+            {
+                if (value < 0)
+                {
+                    throw new ArgumentOutOfRangeException("Age", "Age cannot be negative");
+                }
+
+                this.age = value;
+            }
         }
 
         public Gender Gender
         {
-            get { return this.gender; }
-            set { this.gender = value; }
+            get
+            {
+                return this.gender;
+            }
+            set
+            {
+                this.gender = value;
+            }
         }
 
         public abstract void ProduceSound();

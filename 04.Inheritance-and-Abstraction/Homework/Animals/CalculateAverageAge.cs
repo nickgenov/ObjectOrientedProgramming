@@ -23,16 +23,23 @@ namespace Animals
                 new Kitten("Juji", 2, Gender.Female),
                 new Kitten("Geri", 1, Gender.Female),
                 new Tomcat("Stamat", 3, Gender.Male),
-                new Tomcat("Gosho", 4, Gender.Male),
+                new Tomcat("Gosho", 6, Gender.Male),
                 new Tomcat("Pesho", 2, Gender.Male),
             };
 
-            var query = animalsArray
+            var animalAverageAge = animalsArray
+                .GroupBy(a => a.GetType().Name)
                 .Select(a => new
                 {
-                    AnimalType = a.GetType().Name,
-                    AverageAge = a.Age
-                });
+                    AnimalType = a.Key,
+                    AverageAge = a.Average(b => b.Age)
+                })
+                .OrderBy(a => a.AverageAge);
+
+            foreach (var animal in animalAverageAge)
+            {
+                Console.WriteLine("{0} average age: {1:F2}", animal.AnimalType, animal.AverageAge);
+            }
         }
     }
 }

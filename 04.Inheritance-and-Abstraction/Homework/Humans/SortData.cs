@@ -11,7 +11,6 @@ namespace Humans
         {
             //Initialize a list of 10 students and sort them by faculty number in ascending order:
 
-            //Faculty number validation DOES NOT WORK, fix it!
             var students = new List<Student>()
             {
                 new Student("Petar", "Ivanov", "098234234"),
