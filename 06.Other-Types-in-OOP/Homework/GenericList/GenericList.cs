@@ -1,15 +1,16 @@
-﻿using System.Linq;
+﻿using System;
+using System.Linq;
 
 namespace GenericList
 {
-    public struct GenericList<T>
+    public class GenericList<T>
+        where T: IComparable<T>
     {
         private const int DefaultCapacity = 16;
         private T[] elements;
         private int currentIndex;
 
         public GenericList(int capacity = DefaultCapacity)
-            :this()
         {
             this.elements = new T[capacity];
             this.currentIndex = 0;
@@ -17,7 +18,7 @@ namespace GenericList
 
         public void Add(T element)
         {
-            if (this.currentIndex == this.elements.Length)
+            if (this.currentIndex >= this.elements.Length)
             {
                 this.Resize();
             }
@@ -26,27 +27,104 @@ namespace GenericList
             this.currentIndex++;
         }
 
-        public void RemoveAtIndex(int index)
+        public void Push(T element)
         {
-            //TODO
+            this.Add(element);
         }
 
-        public void InsertAtIndex(int index)
+        public T Pop()
         {
-            //TODO
+            if (this.currentIndex == 0)
+            {
+                throw new InvalidOperationException("Generic list is empty.");
+            }
+
+            T lastElement = this.elements[this.currentIndex - 1];
+            this.elements[this.currentIndex - 1] = default(T);
+            this.currentIndex--;
+
+            return lastElement;
         }
 
         public T this[int index]
         {
-            //TODO data validation and exceptions
             get
             {
+                if (index < 0 || index >= this.currentIndex)
+                {
+                    throw new IndexOutOfRangeException("Index is outside of the generic list.");
+                }
+
                 return this.elements[index];
             }
             set
             {
+                if (index < 0 || index >= this.currentIndex)
+                {
+                    throw new IndexOutOfRangeException("Index is outside of the generic list.");
+                }
+
                 this.elements[index] = value;
             }
+        }
+
+        public void RemoveAtIndex(int index)
+        {
+            if (index < 0 || index >= this.currentIndex)
+            {
+                throw new IndexOutOfRangeException("Index is outside of the generic list.");
+            }
+
+            this.ShiftElementsLeft(index);
+        }
+
+        public void InsertAtIndex(int index, T element)
+        {
+            if (index < 0 || index >= this.currentIndex)
+            {
+                throw new IndexOutOfRangeException("Index is outside of the generic list.");
+            }
+
+            this.ShiftElementsRight(index, element);
+            this.elements[index] = element;
+        }
+
+        public T Min()
+        {
+            if (this.currentIndex == 0)
+            {
+                throw new InvalidOperationException("Generic list is empty.");
+            }
+
+            T min = this.elements[0];
+            for (int i = 1; i < this.currentIndex; i++)
+            {
+                T currentElement = this.elements[i];
+                if (currentElement.CompareTo(min) == -1)
+                {
+                    min = currentElement;
+                }
+            }
+            return min;
+        }
+
+        public T Max()
+        {
+            if (this.currentIndex == 0)
+            {
+                throw new InvalidOperationException("Generic list is empty.");
+            }
+
+            T max = this.elements[0];
+            for (int i = 1; i < this.currentIndex; i++)
+            {
+                T currentElement = this.elements[i];
+                if (currentElement.CompareTo(max) == 1)
+                {
+                    max = currentElement;
+                }
+            }
+            return max;
         }
 
         public void Clear()
@@ -56,7 +134,7 @@ namespace GenericList
                 this.elements[i] = default(T);
             }
 
-            currentIndex = 0;
+            this.currentIndex = 0;
         }
 
         public int IndexOf(T element)
@@ -89,7 +167,8 @@ namespace GenericList
 
         public override string ToString()
         {
-            string output = string.Join(", ", this.elements.Take(this.currentIndex - 1));
+            string output = string.Join(", ", this.elements.Take(this.currentIndex));
+            output = string.Format("[{0}]", output);
 
             return output;
         }
@@ -104,6 +183,27 @@ namespace GenericList
             }
 
             this.elements = newElements;
+        }
+
+        private void ShiftElementsLeft(int index)
+        {
+            for (int i = index; i < this.currentIndex; i++)
+            {
+                this.elements[i] = this.elements[i + 1];
+            }
+
+            this.elements[this.currentIndex] = default(T);
+            this.currentIndex--;
+        }
+
+        private void ShiftElementsRight(int index, T element)
+        {
+            for (int i = this.currentIndex; i > index; i--)
+            {
+                this.elements[i] = this.elements[i - 1];
+            }
+
+            this.currentIndex++;
         }
     }
 }
