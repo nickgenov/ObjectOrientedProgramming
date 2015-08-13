@@ -1,9 +1,10 @@
 ﻿using System;
 using CompanyHierarchy.Enums;
+using CompanyHierarchy.Interfaces;
 
 namespace CompanyHierarchy.Classes
 {
-    public class Project
+    public class Project : IProject
     {
         private string name;
 
@@ -21,7 +22,7 @@ namespace CompanyHierarchy.Classes
             {
                 return this.name;
             }
-            private set
+            set
             {
                 if (string.IsNullOrWhiteSpace(value))
                 {
@@ -32,15 +33,21 @@ namespace CompanyHierarchy.Classes
             }
         }
 
-        public DateTime StartDate { get; private set; }
+        public DateTime StartDate { get; set; }
 
         public string Details { get; set; }
 
-        public ProjectState State { get; private set; }
+        public ProjectState State { get; set; }
 
         public void CloseProject()
         {
             this.State = ProjectState.Closed;
+        }
+
+        public override string ToString()
+        {
+            string output = string.Format("Project name: {0}, start: {1}, details: {2}, state: {3}", this.Name, this.State, this.Details, this.State);
+            return output;
         }
     }
 }

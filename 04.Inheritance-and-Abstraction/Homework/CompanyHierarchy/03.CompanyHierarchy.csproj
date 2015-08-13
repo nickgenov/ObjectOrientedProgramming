@@ -63,7 +63,7 @@
     <Compile Include="Interfaces\IRegularEmployee.cs" />
     <Compile Include="Interfaces\ISale.cs" />
     <Compile Include="Interfaces\ISalesEmployee.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="CompanyMain.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -1,9 +1,10 @@
 ﻿using System;
 using CompanyHierarchy.Enums;
+using CompanyHierarchy.Interfaces;
 
 namespace CompanyHierarchy.Classes
 {
-    public abstract class Employee : Person
+    public abstract class Employee : Person, IEmployee
     {
         private decimal salary;
 
@@ -32,5 +33,11 @@ namespace CompanyHierarchy.Classes
         }
 
         public Department Department { get; set; }
+
+        public override string ToString()
+        {
+            string output = string.Format("{0}, salary: {1:F2}, department: {2}", base.ToString(), this.Salary, this.Department);
+            return output;
+        }
     }
 }

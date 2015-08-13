@@ -66,5 +66,20 @@ namespace CompanyHierarchy.Classes
                 this.lastName = value;
             }
         }
+
+        protected string FullName
+        {
+            get
+            {
+                string fullName = string.Format("{0} {1}", this.FirstName, this.LastName);
+                return fullName;
+            }
+        }
+
+        public override string ToString()
+        {
+            string output = string.Format("Id: {0}, Full name: {1}", this.Id, this.FullName);
+            return output;
+        }
     }
 }

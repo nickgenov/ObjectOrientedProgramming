@@ -1,8 +1,9 @@
 ﻿using System;
+using CompanyHierarchy.Interfaces;
 
 namespace CompanyHierarchy.Classes
 {
-    public class Sale
+    public class Sale : ISale
     {
         private string productName;
         private decimal price;
@@ -49,6 +50,12 @@ namespace CompanyHierarchy.Classes
 
                 this.price = value;
             }
+        }
+
+        public override string ToString()
+        {
+            string output = string.Format("Product name: {0}, sale date: {1}, price: {2}", this.ProductName, this.Date, this.Price);
+            return output;
         }
     }
 }

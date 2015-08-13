@@ -1,8 +1,9 @@
 ﻿using System;
+using CompanyHierarchy.Interfaces;
 
 namespace CompanyHierarchy.Classes
 {
-    public class Customer : Person
+    public class Customer : Person, ICustomer
     {
         private decimal netPurchaseAmount;
 
@@ -27,6 +28,12 @@ namespace CompanyHierarchy.Classes
 
                 this.netPurchaseAmount = value;
             }
+        }
+
+        public override string ToString()
+        {
+            string output = string.Format("{0}, Net purchase amount: {1}", base.ToString(), this.NetPurchaseAmount);
+            return output;
         }
     }
 }
