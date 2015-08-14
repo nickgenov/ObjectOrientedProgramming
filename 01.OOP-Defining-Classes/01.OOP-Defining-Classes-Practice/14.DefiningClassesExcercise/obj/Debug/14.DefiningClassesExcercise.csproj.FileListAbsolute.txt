@@ -1,5 +1,0 @@
-C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\14.DefiningClassesExcercise\bin\Debug\14.DefiningClassesExcercise.exe.config
-C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\14.DefiningClassesExcercise\bin\Debug\14.DefiningClassesExcercise.exe
-C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\14.DefiningClassesExcercise\bin\Debug\14.DefiningClassesExcercise.pdb
-C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\14.DefiningClassesExcercise\obj\Debug\14.DefiningClassesExcercise.exe
-C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\14.DefiningClassesExcercise\obj\Debug\14.DefiningClassesExcercise.pdb

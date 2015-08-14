@@ -1,6 +1,0 @@
-C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\04.ConstructorChaining\bin\Debug\04.ConstructorChaining.exe.config
-C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\04.ConstructorChaining\bin\Debug\04.ConstructorChaining.exe
-C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\04.ConstructorChaining\bin\Debug\04.ConstructorChaining.pdb
-C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\04.ConstructorChaining\obj\Debug\04.ConstructorChaining.csprojResolveAssemblyReference.cache
-C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\04.ConstructorChaining\obj\Debug\04.ConstructorChaining.exe
-C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\04.ConstructorChaining\obj\Debug\04.ConstructorChaining.pdb

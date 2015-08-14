@@ -1,5 +1,0 @@
-C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\12.KeepObjectStateCorrect\bin\Debug\12.KeepObjectStateCorrect.exe.config
-C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\12.KeepObjectStateCorrect\bin\Debug\12.KeepObjectStateCorrect.exe
-C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\12.KeepObjectStateCorrect\bin\Debug\12.KeepObjectStateCorrect.pdb
-C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\12.KeepObjectStateCorrect\obj\Debug\12.KeepObjectStateCorrect.exe
-C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\12.KeepObjectStateCorrect\obj\Debug\12.KeepObjectStateCorrect.pdb

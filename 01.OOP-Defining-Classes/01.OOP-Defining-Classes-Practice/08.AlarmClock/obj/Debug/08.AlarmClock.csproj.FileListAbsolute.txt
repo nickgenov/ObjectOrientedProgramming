@@ -1,5 +1,0 @@
-C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\08.AlarmClock\bin\Debug\08.AlarmClock.exe.config
-C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\08.AlarmClock\bin\Debug\08.AlarmClock.exe
-C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\08.AlarmClock\bin\Debug\08.AlarmClock.pdb
-C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\08.AlarmClock\obj\Debug\08.AlarmClock.exe
-C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\08.AlarmClock\obj\Debug\08.AlarmClock.pdb

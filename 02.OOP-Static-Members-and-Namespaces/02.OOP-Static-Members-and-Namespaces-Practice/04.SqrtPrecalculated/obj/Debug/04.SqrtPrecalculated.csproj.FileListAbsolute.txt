@@ -1,6 +1,0 @@
-C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\02.OOP-Static-Members-and-Namespaces\02.OOP-Static-Members-and-Namespaces-Practice\04.SqrtPrecalculated\bin\Debug\04.SqrtPrecalculated.exe.config
-C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\02.OOP-Static-Members-and-Namespaces\02.OOP-Static-Members-and-Namespaces-Practice\04.SqrtPrecalculated\bin\Debug\04.SqrtPrecalculated.exe
-C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\02.OOP-Static-Members-and-Namespaces\02.OOP-Static-Members-and-Namespaces-Practice\04.SqrtPrecalculated\bin\Debug\04.SqrtPrecalculated.pdb
-C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\02.OOP-Static-Members-and-Namespaces\02.OOP-Static-Members-and-Namespaces-Practice\04.SqrtPrecalculated\obj\Debug\04.SqrtPrecalculated.csprojResolveAssemblyReference.cache
-C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\02.OOP-Static-Members-and-Namespaces\02.OOP-Static-Members-and-Namespaces-Practice\04.SqrtPrecalculated\obj\Debug\04.SqrtPrecalculated.exe
-C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\02.OOP-Static-Members-and-Namespaces\02.OOP-Static-Members-and-Namespaces-Practice\04.SqrtPrecalculated\obj\Debug\04.SqrtPrecalculated.pdb

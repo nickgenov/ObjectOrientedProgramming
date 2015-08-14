@@ -1,6 +1,0 @@
-C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\02.OOP-Static-Members-and-Namespaces\02.OOP-Static-Members-and-Namespaces-Practice\06.OperatorOverload\bin\Debug\06.OperatorOverload.exe.config
-C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\02.OOP-Static-Members-and-Namespaces\02.OOP-Static-Members-and-Namespaces-Practice\06.OperatorOverload\bin\Debug\06.OperatorOverload.exe
-C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\02.OOP-Static-Members-and-Namespaces\02.OOP-Static-Members-and-Namespaces-Practice\06.OperatorOverload\bin\Debug\06.OperatorOverload.pdb
-C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\02.OOP-Static-Members-and-Namespaces\02.OOP-Static-Members-and-Namespaces-Practice\06.OperatorOverload\obj\Debug\06.OperatorOverload.csprojResolveAssemblyReference.cache
-C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\02.OOP-Static-Members-and-Namespaces\02.OOP-Static-Members-and-Namespaces-Practice\06.OperatorOverload\obj\Debug\06.OperatorOverload.exe
-C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\02.OOP-Static-Members-and-Namespaces\02.OOP-Static-Members-and-Namespaces-Practice\06.OperatorOverload\obj\Debug\06.OperatorOverload.pdb

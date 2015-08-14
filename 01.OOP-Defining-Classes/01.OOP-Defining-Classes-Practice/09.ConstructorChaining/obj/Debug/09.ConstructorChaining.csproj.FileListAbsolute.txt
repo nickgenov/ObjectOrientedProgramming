@@ -1,5 +1,0 @@
-C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\09.ConstructorChaining\bin\Debug\09.ConstructorChaining.exe.config
-C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\09.ConstructorChaining\bin\Debug\09.ConstructorChaining.exe
-C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\09.ConstructorChaining\bin\Debug\09.ConstructorChaining.pdb
-C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\09.ConstructorChaining\obj\Debug\09.ConstructorChaining.exe
-C:\Users\Nick\Desktop\OOP\ObjectOrientedProgramming\01.OOP-Defining-Classes\01.OOP-Defining-Classes-Practice\09.ConstructorChaining\obj\Debug\09.ConstructorChaining.pdb
